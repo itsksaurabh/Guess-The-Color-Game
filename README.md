@@ -9,3 +9,10 @@ See Demo here : https://itsksaurabh.github.io/Guess-The-Color-Game/index.html
 <img src="https://s3.amazonaws.com/poly-screenshots.angel.co/Project/f6/664962/30da4c3a977041e736876e5c44dc5d5a-original.png" />
 
 
+# Help & Support
+<ul>
+  <li><a href="https://in.linkedin.com/in/itsksaurabh">Author</a></li>
+</ul>
+
+
+
